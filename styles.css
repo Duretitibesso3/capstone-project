@@ -435,6 +435,10 @@ hr {
     display: none;
   }
 
+  .flists {
+    display: none;
+  }
+
   .barlist {
     display: none;
   }
