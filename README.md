@@ -15,6 +15,8 @@
 ## Live Demo
 [Live Demo Link](https://duretitibesso3.github.io/capstone-project/)
 
+## Video for capston project
+https://www.loom.com/share/b2cb7d942f2b47baa66635a8612b42c8
 
 To get a local copy up and running follow these simple example steps.
 
