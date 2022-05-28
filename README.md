@@ -43,7 +43,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- originally designed by Cindy Shin in Behance
+- originally designed by [Cindy Shin in Behance](https://www.behance.net/adagio07)
 
 📝 License
 This project is MIT licensed.
